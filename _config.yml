@@ -25,7 +25,7 @@ url                      : "https://lizzy1101.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # "lizzy1101/lizzy1101.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "C:\Users\82102\Desktop\LUV/assets/images/500x500.png" # path of logo image to display in the masthead, e.g. 
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/500x500.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
