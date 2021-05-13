@@ -33,7 +33,7 @@ layout: single
 ### ★ 18 어게인 '고우영'
 ![school][again]
 
-[again]: https://post-phinf.pstatic.net/MjAyMDEwMzFfMjI0/MDAxNjA0MTI1NTI3MjE4.G6zXZMyg1Z8jmecEZFpDjYw0-VxyczRf6S32jGRz_acg.I0QVJrIqQhTmgqGnUTK9xfONwwCBS0_7TFhyde3lXvMg.JPEG/18%EC%96%B4%EA%B2%8C%EC%9D%B8%EC%9D%98_%EA%B3%A0%EC%9A%B0%EC%98%81%EC%9E%85%EB%8B%88%EB%8B%A44_%2816%29.jpg?type=w1200아
+[again]: https://post-phinf.pstatic.net/MjAyMDA5MzBfNDMg/MDAxNjAxNDU5NzQyNjUx._Dcf8eWn2FkYyOdj2F8kuyUj4SxXsk79gK7ZeflWWfUg.v4HYhPXDHQ_ro_sUfxuz4CzurEZEEggScmpiS212k-og.JPEG/OOOH3516_%EC%9D%B4%EB%8F%84%ED%98%84_%EC%88%98%EC%A0%95.jpg?type=w1200
 아저씨였는데 19살 전성기 때로 돌아감♡ 
 도현이가 아저씨 연기를 기깔나게 함 아주 굳. 
 이 작품을 통해서 도현이에게 완전 입덕했음. 교복 입고 나와줘서 너무 감사했어ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ
