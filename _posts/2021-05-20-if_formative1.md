@@ -27,10 +27,10 @@ int main(void)
  ~~~ 
  
  
- ### 02. 3개의 터널 통과
- ![tunnel](/assets/images/tunnel.jpg)
- ~~~c
- #include <stdio.h>
+### 02. 3개의 터널 통과
+![tunnel](/assets/images/tunnel.jpg)
+~~~c
+#include <stdio.h>
 int main(void)
 { int tunnul_1, tunnul_2, tunnul_3;
 printf("세 터널의 높이를 차례대로 입력하세요 : ");
