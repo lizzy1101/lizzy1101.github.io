@@ -176,6 +176,7 @@ int main()
 #include <stdio.h>
 ![grade](/assets/images/grade.PNG)
 
+
 ~~~c
 main()
 {
