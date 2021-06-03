@@ -73,3 +73,101 @@ return 0;
 }
 ~~~
 
+### 04. 30분 전 
+![clock](/assets/images/clock.PNG)
+~~~c
+#include <stdio.h>
+int main()
+{
+ int hour, min;
+ printf("시간과 분을 입력하세요 : ");
+ scanf("%d %d", &hour, &min);
+ printf("입력과 시간의 30분 전 시간은 ");
+ if(min>=30)
+ printf("%d시 %d분\n", hour, min-30);
+ else
+ {
+ if(hour==0)
+ printf("%d시 %d분\n", 23, min+30);
+ else
+ printf("%d시 %d분\n", hour-1, min+30);
+ }
+ return 0;
+}
+~~~
+
+### 05. 용돈으로 책을 구입할 수 있는지 판단하는 프로그램
+![error](/assets/images/error.PNG)
+~~~c
+#include <stdio.h>
+ int main()
+{
+ int money, remain, book = 15000;
+ printf("책의 가격은 15000원입니다.\n");
+ printf("당신이 가진 용돈은 얼마인가요?: ");
+ scanf("%d", &money);
+ if(money>=book){
+ remain=money-book;
+ printf("책을 구입하였습니다. 이제 남은 용돈은 %d입니다.\n", remain);}
+ else
+ printf("책을 구입하지 못했습니다.");
+ return 0;
+}
+~~~
+
+### 06. 도어락
+![doorlock](/assets/images/doorlock.PNG)
+~~~c
+#include <stdio.h>
+ int main()
+{
+ int select;
+ char dic='c', ic;
+ int dpw=24680, pw;
+ double dfig=1.2345678, fig;
+ printf("장치 선택: ");
+ scanf("%d", &select);
+ if(select==1)
+   {
+    printf("IC카드: ");
+    scanf(" %c", &ic);
+   }
+   else if(select==2)
+   {
+    printf("비밀번호: ");
+    scanf("%d", &pw);
+   }
+   else
+   {
+    printf("지문: ");
+    scanf("%lf", &fig);
+   }
+   if (dic==ic || dpw==pw || dfig==fig)
+     printf("문 열림~");
+   else
+     printf("디리릭!디리릭!");
+  
+   return 0;
+}
+~~~
+
+### 07. 가위바위보
+![play](/assets/images/play.PNG)
+~~~c
+#include <stdio.h>
+ 
+int main()
+{
+ char com, user;
+ com='s';
+ printf("r/s/p: ");
+ scanf("%c", &user);
+ if(com==user)
+ printf("비겼다");
+ else if((com=='r'&&user=='p') || (com=='p'&&user=='s') || (com=='s'&&user=='r'))
+ printf("이겼다");
+ else
+ printf("졌다");
+ return 0;
+}
+~~~
