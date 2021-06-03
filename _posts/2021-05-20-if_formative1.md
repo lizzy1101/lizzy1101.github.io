@@ -173,11 +173,9 @@ int main()
 ~~~
 
 ### 08. 성적 계산
-#include <stdio.h>
 ![grade](/assets/images/grade.PNG)
-
-
 ~~~c
+#include <stdio.h>
 main()
 {
  float a, b, c;
