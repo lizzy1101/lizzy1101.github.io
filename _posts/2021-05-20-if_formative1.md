@@ -197,6 +197,7 @@ main()
 ![math](/assets/images/math.jpg)
 ~~~c
 #include <stdio.h>
+
 int main() 
 {
   float x, y;
@@ -204,13 +205,15 @@ int main()
   scanf("(%f, %f)", &x, &y);
   if(x>0 && y>0)
   printf("1사분면");
-  if(x<0 && y>0)
+  else if(x<0 && y>0)
   printf("2사분면");
-  if(x<0 && y<0)
+  else if(x<0 && y<0)
   printf("3사분면");
-  if(x>0 && y<0)
+  else if(x>0 && y<0)
   printf("4사분면");
-  if(x==0 && y==0)
+  else if(x==0 && y==0)
   printf("원점");
+  else
+  printf("정의할 수 없습니다.");
 }
 ~~~
