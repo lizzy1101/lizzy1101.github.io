@@ -192,3 +192,25 @@ main()
  printf("점수는 % .1f 입니다.\n", score);
 }
 ~~~
+
+### 09. 좌표 평면
+![math](/assets/images/math.jpg)
+~~~c
+#include <stdio.h>
+int main() 
+{
+  float x, y;
+  printf("(x, y) : ");
+  scanf("(%f, %f)", &x, &y);
+  if(x>0 && y>0)
+  printf("1사분면");
+  if(x<0 && y>0)
+  printf("2사분면");
+  if(x<0 && y<0)
+  printf("3사분면");
+  if(x>0 && y<0)
+  printf("4사분면");
+  if(x==0 && y==0)
+  printf("원점");
+}
+~~~
