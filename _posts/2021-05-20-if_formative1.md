@@ -4,7 +4,7 @@ title: "수행평가 "
 toc: true
 toc_sticky: true
 toc_label: "페이지 주요 목차"
-cateogries: programming
+categories: programming
 ---
 
 ### 01. 사주보기
