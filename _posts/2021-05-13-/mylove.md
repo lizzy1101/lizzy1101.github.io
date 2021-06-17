@@ -4,7 +4,7 @@ title: "이도현"
 toc: true
 toc_sticky: true
 toc_label: "페이지 주요 목차"
-cateogries: review
+categories: review
 ---
 
 ### ★ 서른이지만 열일곱입니다 '동해범'
