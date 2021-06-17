@@ -1,5 +1,5 @@
 ---
-title: "review 공간 소개"
+title: "소개글"
 permalink: /about/
 layout: single
 ---
